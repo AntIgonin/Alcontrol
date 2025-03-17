@@ -1,0 +1,85 @@
+<resources>
+    <string name="alcontrol">Alcontrol</string>
+    <string name="bottom_bar_main">Main</string>
+    <string name="bottom_bar_calendar">Calendar</string>
+    <string name="bottom_bar_profile">Profile</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="template_ml">%1$s ml</string>
+    <string name="template_kg">%1$s kg</string>
+    <string name="template_years_old">%1$s years old</string>
+
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+
+    <string name="drink_spirits_category">Strong drinks</string>
+    <string name="drink_vodka">Vodka</string>
+    <string name="drink_whiskey">Whiskey</string>
+    <string name="drink_rum">Rum</string>
+    <string name="drink_tequila">Tequila</string>
+    <string name="drink_brandy">Brandy</string>
+    <string name="drink_gin">Gin</string>
+
+    <!-- Wine -->
+    <string name="drink_wine_category">Wine</string>
+    <string name="drink_red_wine">Red Wine</string>
+    <string name="drink_white_wine">White Wine</string>
+    <string name="drink_rose_wine">Rosé Wine</string>
+    <string name="drink_sparkling_wine">Sparkling Wine</string>
+    <string name="drink_fortified_wine">Fortified Wine</string>
+
+    <!-- Beer -->
+    <string name="drink_beer_category">Beer</string>
+    <string name="drink_lager">Lager</string>
+    <string name="drink_ale">Ale</string>
+    <string name="drink_ipa">Ipa</string>
+    <string name="drink_dipa">Dipa</string>
+    <string name="drink_stout">Stout</string>
+    <string name="drink_porter">Porter</string>
+    <string name="drink_pilsner">Pilsner</string>
+    <string name="drink_strong_beer">Strong Beer</string>
+
+    <!-- Cocktails -->
+    <string name="drink_cocktails_category">Cocktails</string>
+    <string name="drink_martini">Martini</string>
+    <string name="drink_margarita">Margarita</string>
+    <string name="drink_mojito">Mojito</string>
+    <string name="drink_old_fashioned">Old Fashioned</string>
+    <string name="drink_daiquiri">Daiquiri</string>
+
+    <!-- Non-Alcoholic Drinks -->
+    <string name="drink_non_alcoholic_category">Non-Alcoholic Drinks</string>
+    <string name="drink_juice">Juice</string>
+    <string name="drink_soda">Soda</string>
+    <string name="drink_water">Water</string>
+    <string name="drink_tea">Tea</string>
+    <string name="drink_coffee">Coffee</string>
+
+    <!-- General -->
+    <string name="general_screen_hello">Hello!</string>
+    <string name="general_screen_hello_template">Hello, %1$s !</string>
+    <string name="general_screen_statistic">Statistic</string>
+    <string name="general_screen_current_plan">Current plan</string>
+    <string name="general_screen_favorite_drink">Favorite drink</string>
+    <string name="general_screen_alcohol_free_days">Days without alcohol</string>
+    <string name="general_screen_drank_now">Drinking now?</string>
+    <string name="general_screen_log_last_drink">Log a Drink</string>
+
+    <string name="general_bottom_sheet_select_drinks">What were you drinking?</string>
+    <string name="general_bottom_sheet_select_volume">How many?</string>
+
+    <string name="general_avg_label">avg</string>
+
+
+    <!-- Calendar -->
+    <string name="calendar_your_statistic">Your statistic</string>
+
+    <!-- Profile -->
+    <string name="profile_age_label">years old</string>
+    <string name="profile_weight_label">Weight</string>
+    <string name="profile_gender_label">Gender</string>
+    <string name="profile_avg_alcohol_consumption_label">Average consumption of alcohol:</string>
+    <string name="profile_days_of_consumption">Usual days of consumption</string>
+
+</resources>

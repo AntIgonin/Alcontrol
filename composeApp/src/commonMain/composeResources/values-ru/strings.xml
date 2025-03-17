@@ -1,0 +1,45 @@
+<resources>
+    <string name="bottom_bar_main">Главная</string>
+    <string name="bottom_bar_calendar">Календарь</string>
+    <string name="bottom_bar_profile">Профиль</string>
+
+    <!-- Алкогольные напитки -->
+    <string name="drink_vodka">Водка</string>
+    <string name="drink_whiskey">Виски</string>
+    <string name="drink_rum">Ром</string>
+    <string name="drink_tequila">Текила</string>
+    <string name="drink_brandy">Бренди</string>
+    <string name="drink_gin">Джин</string>
+
+    <!-- Вина -->
+    <string name="drink_red_wine">Красное вино</string>
+    <string name="drink_white_wine">Белое вино</string>
+    <string name="drink_rose_wine">Розовое вино</string>
+    <string name="drink_sparkling_wine">Игристое вино</string>
+    <string name="drink_fortified_wine">Крепленое вино</string>
+
+    <!-- Пиво -->
+    <string name="drink_lager">Лагер</string>
+    <string name="drink_ale">Эль</string>
+    <string name="drink_ipa">Ипа</string>
+    <string name="drink_dipa">Dipa</string>
+    <string name="drink_stout">Стаут</string>
+    <string name="drink_porter">Портер</string>
+    <string name="drink_pilsner">Пилснер</string>
+    <string name="drink_strong_beer">Крепкое пиво</string>
+
+    <!-- Коктейли -->
+    <string name="drink_martini">Мартини</string>
+    <string name="drink_margarita">Маргарита</string>
+    <string name="drink_mojito">Мохито</string>
+    <string name="drink_old_fashioned">Олд Фэшн</string>
+    <string name="drink_daiquiri">Дайкири</string>
+
+    <!-- Безалкогольные напитки -->
+    <string name="drink_juice">Сок</string>
+    <string name="drink_soda">Газировка</string>
+    <string name="drink_water">Вода</string>
+    <string name="drink_tea">Чай</string>
+    <string name="drink_coffee">Кофе</string>
+
+</resources>
